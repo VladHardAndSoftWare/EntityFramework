@@ -1,4 +1,3 @@
 # EntityFramework
 
-
-![EntityFramework](https://github.com/VladHardAndSoftWare/EntityFramework/assets/42782084/42f368de-33df-4c33-9a39-811443373345)
+![EntityFramework](https://github.com/VladHardAndSoftWare/EntityFramework/assets/42782084/76f0a711-38e8-4109-937b-d192f252ea7f)
